@@ -19,7 +19,7 @@ import java.util.Scanner;
 
 public class TestFun01 {
 //	지역변수: local vairable - {}안에서만 적용
-//	전역변수: global - class에 전역변수 위치에서 만든 변수 / 모두 적용
+//	전역변수: global - class에 전역변수 위치에서 만든 변수 / 모두 적용 / field
 	static int    num;
 	static String name;
 	static int    kor;
